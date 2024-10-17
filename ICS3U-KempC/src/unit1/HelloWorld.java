@@ -15,6 +15,7 @@ public class HelloWorld {
 		/*
 		 * This is a block comment.
 		 * You can add notes on multiple lines.
+		 * Adding more comments.
 		 */
 		System.out.println(Math.PI * 2);
 	}
